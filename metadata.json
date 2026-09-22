@@ -1,0 +1,6 @@
+{
+  "name": "SIGAP PPSDM",
+  "description": "Sistem Agenda & Pemesanan Ruangan Rapat Real-Time PPSDM KHIT (Karantina Hewan Ikan dan Tumbuhan)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
